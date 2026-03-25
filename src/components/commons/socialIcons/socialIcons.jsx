@@ -28,7 +28,7 @@ const SocialIcons = () => {
         <FaGithub className="h-7 w-7" />
       </a>
 
-      {/* <a
+      <a
         href="https://x.com/lautarodevelops/"
         target="_blank"
         rel="noopener noreferrer"
@@ -36,9 +36,9 @@ const SocialIcons = () => {
         aria-label="Twitter"
       >
         <FaXTwitter className="h-7 w-7" />
-      </a> */}
+      </a>
 
-      {/* <a
+      <a
         href="https://www.instagram.com/lautarodevelops/"
         target="_blank"
         rel="noopener noreferrer"
@@ -46,7 +46,7 @@ const SocialIcons = () => {
         aria-label="Instagram"
       >
         <FaInstagram className="h-7 w-7" />
-      </a> */}
+      </a>
     </div>
   );
 };
